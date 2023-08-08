@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase2</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>0c598c67-4164-43c4-b65f-c568dff3c787</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Input').getValue('UserName', 1)</defaultValue>
+      <description></description>
+      <id>a575e345-cb05-438e-aaee-104307d088b9</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Input').getValue('Password', 1)</defaultValue>
+      <description></description>
+      <id>de8f7f14-3b31-462a-89f8-60a90b35bbf4</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'4'</defaultValue>
+      <description></description>
+      <id>d7bf66e2-46f1-4b85-9e3f-8c9f3ea0803a</id>
+      <masked>false</masked>
+      <name>Quantity</name>
+   </variable>
+</TestCaseEntity>

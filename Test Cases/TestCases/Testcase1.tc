@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>data file used - JPetStore_Login</description>
+   <name>Testcase1</name>
+   <tag>Registration</tag>
+   <comment></comment>
+   <testCaseGuid>5f2d1150-5da3-4579-b928-28a3781e15fa</testCaseGuid>
+</TestCaseEntity>
